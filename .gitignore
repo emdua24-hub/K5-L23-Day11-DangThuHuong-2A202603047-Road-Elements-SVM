@@ -7,3 +7,6 @@ submissions/
 out/
 *.zip
 .env
+
+# screenshots contain dataset images (WoodScape: no redistribution)
+report-img/
